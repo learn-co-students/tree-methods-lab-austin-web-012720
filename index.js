@@ -3,6 +3,7 @@
 WITHOUT CLASSES
 ----------------------------------------------------------
 */
+
 function inOrder(node) {
   if(node.left){
     inOrder(node.left)
